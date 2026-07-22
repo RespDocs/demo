@@ -1,0 +1,29 @@
+{
+  "patente": "ABCD12",
+  "marca": "Furgon",
+  "modelo": "Furgon",
+  "anio": 2026,
+  "url": "https://respdocs.github.io/ABCD12/",
+  "documentos": [
+    {
+      "id": "pc",
+      "nombre": "Permiso de Circulación",
+      "vence": "2027-03-31"
+    },
+    {
+      "id": "soap",
+      "nombre": "Seguro Obligatorio (SOAP)",
+          "vence": "2027-03-31"
+    },
+    {
+      "id": "rt",
+      "nombre": "Revisión Técnica",
+        "vence": "2027-04-30"
+    },
+    {
+      "id": "rg",
+      "nombre": "Revisión de Gases",
+      "vence": "2027-04-30"
+    }
+  ]
+}
